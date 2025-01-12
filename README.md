@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bill Bao</h1>
+<h1 align="center">Hi 👋, I'm Bill Bao.</h1>
 <a href="https://github.com/Bill-Flash?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bill-Flash&show_icons=true&hide_border=true&count_private=true" width="45%" />
 </a>
+
+
 - 🌱 Interested in AI, LLM Agents, AI4SCI.
 - 📫 Reach me by bill6176@connect.hku.hk.
 - 📖 Love Open Source & Talking & Reading.
