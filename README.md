@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bill Bao.</h1>
 
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bill-Flash&show_icons=true&locale=en&layout=compact" alt="Bill-Flash" width="35%" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bill-Flash&show_icons=true&locale=en" alt="Bill-Flash" width="45%" /></p>
 
+| <img align="center" src="https://profile-a1tm.vercel.app/api?username=Bill-Flash&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Github stats" /> | <img align="center" src="https://profile-a1tm.vercel.app/api/top-langs?username=Bill-Flash&layout=compact&langs_count=10&theme=vue&hide_border=true" /> |
+| ------------- | ------------- |
 
 - 🌱 Interested in AI, LLM Agents and AI4SCI.
 - 🔭 Currently working on Cantonese LLM.
